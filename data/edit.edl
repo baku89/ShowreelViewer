@@ -1,0 +1,224 @@
+TITLE: Long_15
+FCM: DROP FRAME
+
+001  AX       V     C        00:00:00:00 00:00:09:00 00:00:00:00 00:00:09:00
+* FROM CLIP NAME: MAIN_intro_15.mov
+
+001  AX       V     C        00:00:00:00 00:00:09:00 00:00:00:00 00:00:09:00
+* FROM CLIP NAME: MAIN_intro_15.mov
+
+002  AX       V     C        172         185         00:00:09:00 00:00:09:16
+* FROM CLIP NAME: Thirst_EDIT
+
+003  AX       V     C        266         284         00:00:09:16 00:00:10:08
+* FROM CLIP NAME: Thirst_EDIT
+
+004  AX       V     C        4055        4091        00:00:10:08 00:00:11:23
+* FROM CLIP NAME: Thirst_EDIT
+
+005  AX       V     C        5122        5132        00:00:11:23 00:00:12:05
+* FROM CLIP NAME: Thirst_EDIT
+
+006  AX       V     C        5136        5151        00:00:12:05 00:00:12:24
+* FROM CLIP NAME: Thirst_EDIT
+
+007  AX       V     C        4157        4170        00:00:12:24 00:00:13:10
+* FROM CLIP NAME: Thirst_EDIT
+
+008  AX       V     C        00:00:00:06 00:00:01:01 00:00:13:10 00:00:14:05
+* FROM CLIP NAME: knzw_0218_check.mov
+
+009  AX       V     C        00:00:08:04 00:00:09:22 00:00:14:05 00:00:15:23
+* FROM CLIP NAME: knzw_0218_check.mov
+
+010  AX       V     C        00:00:04:27 00:00:05:26 00:00:15:23 00:00:16:22
+* FROM CLIP NAME: knzw_0218_check.mov
+
+011  AX       V     C        00:00:11:24 00:00:12:23 00:00:16:22 00:00:17:21
+* FROM CLIP NAME: knzw_0218_check.mov
+
+012  AX       V     C        00:00:00:00 00:00:00:22 00:00:17:21 00:00:18:13
+* FROM CLIP NAME: nhk
+
+013  AX       V     C        00:00:04:08 00:00:05:05 00:00:18:13 00:00:19:10
+* FROM CLIP NAME: nhk
+
+014  AX       V     C        00:00:39:29 00:00:41:01 00:00:19:10 00:00:20:12
+* FROM CLIP NAME: nhk
+
+015  AX       V     C        00:00:43:29 00:00:44:08 00:00:20:12 00:00:20:21
+* FROM CLIP NAME: nhk
+
+016  AX       V     C        00:00:45:19 00:00:45:27 00:00:20:21 00:00:20:29
+* FROM CLIP NAME: nhk
+
+017  AX       V     C        00:00:45:29 00:00:46:16 00:00:20:29 00:00:21:16
+* FROM CLIP NAME: nhk
+
+018  AX       V     C        00:00:47:04 00:00:48:15 00:00:21:16 00:00:22:02
+* FROM CLIP NAME: nhk
+M2   AX       076.8                      00:00:47:04 
+
+019  AX       V     C        00:00:26:06 00:00:27:25 00:00:22:02 00:00:23:21
+* FROM CLIP NAME: nhk
+
+020  AX       V     C        00:00:30:12 00:00:30:29 00:00:23:21 00:00:24:08
+* FROM CLIP NAME: nhk
+
+021  AX       V     C        00:00:31:27 00:00:33:07 00:00:24:08 00:00:25:18
+* FROM CLIP NAME: nhk
+
+022  AX       V     C        00:00:34:29 00:00:35:07 00:00:25:18 00:00:25:26
+* FROM CLIP NAME: nhk
+
+023  AX       V     C        00:00:38:03 00:00:38:20 00:00:25:26 00:00:26:13
+* FROM CLIP NAME: nhk
+
+024  AX       V     C        00:00:01:08 00:00:01:22 00:00:26:13 00:00:26:27
+* FROM CLIP NAME: eizou-bu
+
+025  AX       V     C        00:00:02:22 00:00:03:27 00:00:26:27 00:00:28:02
+* FROM CLIP NAME: eizou-bu
+
+026  AX       V     C        00:00:04:02 00:00:06:07 00:00:28:02 00:00:30:07
+* FROM CLIP NAME: eizou-bu
+
+027  AX       V     C        00:00:06:13 00:00:06:16 00:00:30:07 00:00:30:10
+* FROM CLIP NAME: eizou-bu
+
+028  AX       V     C        00:00:06:21 00:00:06:24 00:00:30:10 00:00:30:13
+* FROM CLIP NAME: eizou-bu
+
+029  AX       V     C        00:00:06:28 00:00:07:01 00:00:30:13 00:00:30:16
+* FROM CLIP NAME: eizou-bu
+
+030  AX       V     C        00:00:07:05 00:00:07:08 00:00:30:16 00:00:30:19
+* FROM CLIP NAME: eizou-bu
+
+031  AX       V     C        00:00:07:12 00:00:07:15 00:00:30:19 00:00:30:22
+* FROM CLIP NAME: eizou-bu
+
+032  AX       V     C        00:00:07:26 00:00:07:28 00:00:30:22 00:00:30:24
+* FROM CLIP NAME: eizou-bu
+
+033  AX       V     C        00:00:05:29 00:00:07:17 00:00:30:24 00:00:32:12
+* FROM CLIP NAME: VF_baku_open_1000.mov
+
+034  AX       V     C        00:00:19:09 00:00:20:24 00:00:32:12 00:00:33:27
+* FROM CLIP NAME: VF_baku_open_1000.mov
+
+035  AX       V     C        00:00:01:23 00:00:03:01 00:00:33:27 00:00:35:05
+* FROM CLIP NAME: VF_baku_open_1000.mov
+
+036  AX       V     C        00:00:35:05 00:00:39:15 00:00:35:05 00:00:39:15
+* FROM CLIP NAME: REEL2013_long_ProRes.mov
+
+037  AX       V     C        00:00:20:17 00:00:21:09 00:00:39:15 00:00:40:05
+* FROM CLIP NAME: BOY_master.mov
+
+038  AX       V     C        00:03:42:19 00:03:43:18 00:00:40:05 00:00:41:04
+* FROM CLIP NAME: BOY_master.mov
+
+039  AX       V     C        00:03:47:10 00:03:48:11 00:00:41:04 00:00:42:05
+* FROM CLIP NAME: BOY_master.mov
+
+040  AX       V     C        00:03:55:12 00:03:56:15 00:00:42:05 00:00:43:09
+* FROM CLIP NAME: BOY_master.mov
+
+041  AX       V     C        00:03:10:02 00:03:10:16 00:00:43:09 00:00:43:26
+* FROM CLIP NAME: BOY_master.mov
+
+042  AX       V     C        00:03:27:19 00:03:29:08 00:00:43:26 00:00:45:15
+* FROM CLIP NAME: museum
+
+043  AX       V     C        00:03:45:10 00:03:46:18 00:00:45:15 00:00:46:23
+* FROM CLIP NAME: museum
+
+044  AX       V     C        00:03:48:04 00:03:49:02 00:00:46:23 00:00:47:21
+* FROM CLIP NAME: museum
+
+045  AX       V     C        00:03:49:04 00:03:49:20 00:00:47:21 00:00:48:07
+* FROM CLIP NAME: museum
+
+046  AX       V     C        00:02:35:08 00:02:36:27 00:00:48:07 00:00:49:26
+* FROM CLIP NAME: v6
+
+047  AX       V     C        00:02:40:24 00:02:41:10 00:00:49:26 00:00:50:12
+* FROM CLIP NAME: v6
+
+048  AX       V     C        00:02:45:02 00:02:47:08 00:00:50:12 00:00:52:18
+* FROM CLIP NAME: v6
+
+049  AX       V     C        00:00:59:03 00:00:59:21 00:00:52:18 00:00:53:06
+* FROM CLIP NAME: 13livetune_fix_ProRes.mov
+
+050  AX       V     C        00:01:02:21 00:01:03:13 00:00:53:06 00:00:53:28
+* FROM CLIP NAME: 13livetune_fix_ProRes.mov
+
+051  AX       V     C        00:01:22:12 00:01:23:02 00:00:53:28 00:00:54:18
+* FROM CLIP NAME: 13livetune_fix_ProRes.mov
+
+052  AX       V     C        00:01:27:12 00:01:28:07 00:00:54:18 00:00:55:13
+* FROM CLIP NAME: 13livetune_fix_ProRes.mov
+
+053  AX       V     C        00:01:28:19 00:01:29:20 00:00:55:13 00:00:56:14
+* FROM CLIP NAME: 13livetune_fix_ProRes.mov
+
+054  AX       V     C        00:01:56:01 00:01:56:17 00:00:56:14 00:00:57:00
+* FROM CLIP NAME: 13livetune_fix_ProRes.mov
+
+055  AX       V     C        00:00:03:10 00:00:04:11 00:00:57:00 00:00:58:01
+* FROM CLIP NAME: MD_sb3_0627.mov
+
+056  AX       V     C        00:00:42:01 00:00:42:13 00:00:58:01 00:00:58:17
+* FROM CLIP NAME: MD_sb3_0627.mov
+
+057  AX       V     C        00:00:22:09 00:00:22:16 00:00:58:17 00:00:58:22
+* FROM CLIP NAME: MD_sb3_0627.mov
+M2   AX       043.2                      00:00:22:09 
+
+058  AX       V     C        00:00:22:16 00:00:23:01 00:00:58:22 00:00:59:03
+* FROM CLIP NAME: MD_sb3_0627.mov
+
+059  AX       V     C        00:00:30:15 00:00:32:19 00:00:59:03 00:01:01:11
+* FROM CLIP NAME: MD_sb3_0627.mov
+
+060  AX       V     C        00:00:00:03 00:00:01:21 00:01:01:11 00:01:02:29
+* FROM CLIP NAME: sa-round_op.mov
+
+061  AX       V     C        00:00:05:09 00:00:07:15 00:01:02:29 00:01:05:05
+* FROM CLIP NAME: sa-round_op.mov
+
+062  AX       V     C        00:00:08:09 00:00:09:08 00:01:05:05 00:01:05:22
+* FROM CLIP NAME: sa-round_op.mov
+M2   AX       050.2                      00:00:08:09 
+
+063  AX       V     C        00:02:59:12 00:03:01:02 00:01:05:22 00:01:07:10
+* FROM CLIP NAME: mimimememimi_SentimentalLove.mov
+
+064  AX       V     C        00:03:01:20 00:03:02:17 00:01:07:10 00:01:08:07
+* FROM CLIP NAME: mimimememimi_SentimentalLove.mov
+
+065  AX       V     C        00:03:02:17 00:03:04:00 00:01:08:07 00:01:09:15
+* FROM CLIP NAME: mimimememimi_SentimentalLove.mov
+
+066  AX       V     C        00:03:04:13 00:03:05:03 00:01:09:15 00:01:10:02
+* FROM CLIP NAME: mimimememimi_SentimentalLove.mov
+
+067  AX       V     C        01:02:25:22 01:02:27:05 00:01:10:02 00:01:11:11
+* FROM CLIP NAME: shunkan-reality
+
+068  AX       V     C        01:02:31:03 01:02:32:13 00:01:11:11 00:01:12:24
+* FROM CLIP NAME: shunkan-reality
+
+069  AX       V     C        01:03:48:11 01:03:48:21 00:01:12:24 00:01:13:07
+* FROM CLIP NAME: shunkan-reality
+
+070  AX       V     C        01:03:49:16 01:03:50:20 00:01:13:07 00:01:14:13
+* FROM CLIP NAME: shunkan-reality
+
+071  AX       V     C        00:00:01:22 00:00:03:27 00:01:14:13 00:01:16:18
+* FROM CLIP NAME: 2014.06 PIXTA.mp4
+
+072  AX       V     C        00:03:27:16 00:03:31:02 00:01:16:18 00:01:20:04
+* FROM CLIP NAME: MAIN_end_15.mov

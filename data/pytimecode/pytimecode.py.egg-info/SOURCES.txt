@@ -1,0 +1,7 @@
+setup.py
+pytimecode/__init__.py
+pytimecode/pytimecode.py
+pytimecode.py.egg-info/PKG-INFO
+pytimecode.py.egg-info/SOURCES.txt
+pytimecode.py.egg-info/dependency_links.txt
+pytimecode.py.egg-info/top_level.txt

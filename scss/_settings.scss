@@ -1,0 +1,132 @@
+@charset "utf-8";
+
+@import "compass";
+@import "compass/css3/animation";
+@import "compass/css3/selection";
+@import "compass/css3/user-interface";
+@import "compass/utilities/general/clearfix";
+
+// --------------------
+// page settings
+
+// color
+$c-bg: #dddddd;
+$c-text: #2b2b2b;
+$c-gray: #bbbbbb;		// サイト上部ボーダーなど
+$c-text-gray: #848484;
+
+$c-tsutsuji: #E27BA9;/*#e95295*/
+$c-asagi: #1D9EA0;
+
+$font-base: 13;
+$font-base-mobile: 12;
+
+// --------------------
+// common class
+
+
+
+// --------------------
+// mixins
+
+// clearfix
+@mixin clearfix {
+	&:after {
+		visibility: hidden;
+		display: block;
+		font-size: 0;
+		content: " ";
+		clear: both;
+		height: 0;
+	}
+
+	* html & { zoom: 1;}
+	*:first-child+html & {zoom: 1;}
+}
+
+// media query
+
+// mq
+$break-small: 780px;//910px;
+$break-large: 1010px;
+
+@mixin mq($media) {
+
+	@if $media == tablet {
+		@media only screen and (max-width: $break-large - 1) { @content; }
+	}
+	@else if $media == mobile {
+		@media only screen and (max-width: $break-small) { @content; }
+	}
+	@else if $media == not-mobile {
+		@media only screen and (min-width: $break-small + 1) { @content; }
+	}
+}
+.media-query {
+	@include mq( tablet ) {
+		font-family: 'tablet';
+	}
+	@include mq( mobile ) {
+		font-family: 'mobile';
+	}
+	@include mq( not-mobile ) {
+		font-family: 'not-mobile';
+	}
+}
+
+ @mixin space {
+ 	content: "\00a0";
+ }
+
+// sprites
+
+@mixin notext {
+	display: block;
+	border: 0;
+	background-repeat: no-repeat;
+	background-color: transparent !important;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+/* mixin for retina background images */
+@mixin background-image-retina($name, $extension:png) {
+	$url: $name + '.' + $extension;
+	$url-retina: $name + '@2x.' + $extension;
+	$width: image-width($url);
+
+	background-image: url($url);
+
+	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 144dpi) {
+    	& {
+    		background-image: url($url-retina);
+			background-size: $width auto;
+		}
+	}
+}
+
+// font size
+@mixin font-size( $size, $media:pc ){
+
+	$context: $font-base;
+
+	/*@if $media == mobile {
+		$context: $font-base-mobile;
+	}*/
+
+	font-size: #{$size/$context}rem;
+}
+
+
+@mixin link-normal {
+	&:link, &:visited {
+		@content;
+	}
+}
+
+@mixin link-active {
+	&:hover, &:active, &:focus {
+		@content;
+	}
+}
